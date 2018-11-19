@@ -1,6 +1,7 @@
 galaxy_info:
   role_name: selinux_disabled
   author: youyo
+  company: heptagon inc.
   description: Disabled SELinux
   license: MIT
   min_ansible_version: 2.4
